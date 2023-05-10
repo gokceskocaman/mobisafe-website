@@ -5,7 +5,7 @@
   --dl-color-gray-black: #000000;
   --dl-color-gray-white: #FFFFFF;
   --dl-space-space-unit: 8px;
-  --dl-color-primary-100: #3a26efff;
+  --dl-color-primary-100: rgb(16, 16, 16);
   --dl-color-primary-500: #8469deff;
   --dl-color-primary-700: #9a91e2ff;
   --dl-radius-radius-round: 50%;
