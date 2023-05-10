@@ -1024,3 +1024,25 @@
 .features .col:hover .title, .features .col:hover .description {
   color: #007bff;
 }
+
+
+footer {
+
+  padding: 50px 0;
+  width: 80%; /* Add this line */
+}
+
+#contact-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-emails {
+  margin-right: 50px;
+}
+
+.contact-address {
+  text-align: right;
+}
+
